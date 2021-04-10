@@ -1,0 +1,8 @@
+@media (min-width:992px) {
+  header.masthead {
+    padding-top: calc(6rem + 106px);
+    padding-bottom: 6rem;
+    background-image: url(;
+  }
+}
+
