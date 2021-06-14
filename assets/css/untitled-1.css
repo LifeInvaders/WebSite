@@ -111,6 +111,10 @@
   border-top-color: #e97e2e;
   border-right-color: #e97e2e;
 }
+.main-timeline .timeline:nth-child(0n) .timeline-icon{
+  border-top-color: #e97e2e;
+  border-right-color: #e97e2e;
+}
 .main-timeline .timeline:nth-child(2n) .year{ color: #e97e2e; }
 .main-timeline .timeline:nth-child(2n) .timeline-content,
 .main-timeline .timeline:nth-child(2n) .timeline-content:before{ background: #e97e2e; }
